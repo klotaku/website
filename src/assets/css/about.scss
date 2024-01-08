@@ -1,0 +1,63 @@
+$bg: #0e073d;
+$accent: #62E3FF;
+$primary: #fff;
+$secondary: #BEBEBE;
+$tertiary: #A6A6A6;
+$brighter: #dcc3c3;
+$bg-2: #0e073d;
+
+
+div.about {
+
+    .container {
+        padding: 1.5em;
+        margin: auto;
+        max-width: 770px;
+
+        div.about-text {
+            p {
+
+                line-height: 1.5;
+                color: $secondary;
+
+                span {
+                    color: $accent;
+                }
+            }
+        }
+
+
+        div.picture-container {
+            margin: auto;
+            text-align: center;
+        }
+
+        img#picture {
+            margin-top: 2em;
+            width: 13rem;
+            height: 13rem;
+            border: 2px solid $accent;
+            border-radius: 5px;
+        }
+    }
+}
+
+
+@media only screen and (min-width: 800px) {
+    div.about {
+
+        .container {
+            padding-left: 6.5em;
+            padding-right: 6.5em;
+            display: flex;
+
+            div.about-text {
+                margin-right: 5em;
+            }
+
+            img#picture {
+                margin-top: 0;
+            }
+        }
+    }
+}

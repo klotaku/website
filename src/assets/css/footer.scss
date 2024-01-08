@@ -1,0 +1,60 @@
+$bg: #002E56;
+$accent: #62E3FF;
+$primary: #fff;
+$secondary: #BEBEBE;
+$tertiary: #A6A6A6;
+$brighter: #D6D6D6;
+$bg-2: #003F77;
+
+div.footer {
+
+    .container {
+        padding: 1.5em;
+        text-align: center;
+        margin: auto;
+        font-family: 'Hack';
+
+        h2.footer-heading {
+            color: white;
+            margin-bottom: 5em;
+            margin-top: 5em;
+        }
+
+        div.footer-bottom {
+            
+            .socials {
+                margin-bottom: 1.7em;
+
+                img {
+                    width: 1.8em;
+                    height: 1.8em;
+                    margin: 0.7em;
+                }
+
+            }
+
+            p.footer-mark {
+                color: $brighter;
+                font-size: 0.9em;
+            }
+
+            p.footer-year {
+
+                width: 50%;
+                text-align: center;
+                border-bottom: 1px solid #A1A1A1;
+                line-height: 0.1em;
+                margin: 3.0em auto 5em auto;
+
+
+                span {
+                    background: $bg;
+                    padding: 0 1.5rem;
+                    color: $accent;
+                }
+            }
+
+        }
+    }
+
+}
