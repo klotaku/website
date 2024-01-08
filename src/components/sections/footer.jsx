@@ -31,7 +31,7 @@ function Footer() {
           <p className="footer-mark">Built by Chloe Zhu</p>
 
           <p className="footer-year">
-            <span>&copy; 2023</span>
+            <span>&copy; 2024</span>
           </p>
         </div>
       </div>

@@ -43,19 +43,19 @@ function NavBar() {
           />
           <ul className="primary-nav">
             <li>
-              <a href="/#about">About</a>
+              <a href="#about">About</a>
             </li>
             <li>
-              <a href="/#experience">Experience</a>
+              <a href="#experience">Experience</a>
             </li>
             <li>
-              <a href="/#awards">Awards</a>
+              <a href="#awards">Awards</a>
             </li>
             {/* <li>
               <a href="/#projects">Projects</a>
             </li> */}
             <li className="resume-cta">
-              <a href="/resume.pdf" target="_blank" rel="noreferrer">
+              <a href="resume.pdf" target="_blank" rel="noreferrer">
                 Resume
               </a>
             </li>
