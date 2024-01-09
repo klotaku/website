@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.8f6e8ddd.css",
-    "main.js": "/website/static/js/main.dcb64b30.js",
+    "main.css": "/website/static/css/main.4c2159ff.css",
+    "main.js": "/website/static/js/main.c401031e.js",
     "static/js/787.7da95b79.chunk.js": "/website/static/js/787.7da95b79.chunk.js",
     "static/media/arch-linux.png": "/website/static/media/arch-linux.e7a5f087cf598e784cbf.png",
     "static/media/Hack-Regular.ttf": "/website/static/media/Hack-Regular.43eaec865af75dee0040.ttf",
@@ -13,16 +13,19 @@
     "static/media/alertra.png": "/website/static/media/alertra.52c5f7d2f1ffa863ade7.png",
     "static/media/flutter-guide.svg": "/website/static/media/flutter-guide.61f699ee1f3f461bd5ab6ec5d7bbe1ce.svg",
     "static/media/montyhacks.png": "/website/static/media/montyhacks.97d3445b3629ef25ce8d.png",
-    "static/media/ml-intern.svg": "/website/static/media/ml-intern.cd5b50eeb408884be9a8952d34f29f9c.svg",
+    "static/media/class-agent.png": "/website/static/media/class-agent.1a8212426cb114d4376e.png",
+    "static/media/archaeology.png": "/website/static/media/archaeology.bdc00ee044d3de5807d2.png",
+    "static/media/copy-editor.png": "/website/static/media/copy-editor.1c56af29835b9182db93.png",
+    "static/media/research-intern.png": "/website/static/media/research-intern.a6d67473577af29cec0e.png",
+    "static/media/ambassador.png": "/website/static/media/ambassador.2c3979edf530c7c2b27c.png",
+    "static/media/translation.png": "/website/static/media/translation.5e807d18764bd440c088.png",
+    "static/media/barista.png": "/website/static/media/barista.8acc343404977a2eda97.png",
     "static/media/ai.svg": "/website/static/media/ai.4a0b6368cb6bb2e49476c8013a9b28ed.svg",
-    "static/media/software-engineer.svg": "/website/static/media/software-engineer.759db256efe76784525e00216963feaf.svg",
     "static/media/react.svg": "/website/static/media/react.030a70411d3566747c24fa9af741faff.svg",
-    "static/media/dev-intern.svg": "/website/static/media/dev-intern.83cfc6744ca2e7891496b941a7532c38.svg",
     "static/media/web-dev.svg": "/website/static/media/web-dev.389dd561af7cd6763b9cbd4ccd165905.svg",
     "static/media/linux.svg": "/website/static/media/linux.1e85a47b4037ce26bef6655c1ce7a412.svg",
     "static/media/arch-linux.svg": "/website/static/media/arch-linux.352f9ab69416d948359ea24a045358ef.svg",
     "static/media/selenium.svg": "/website/static/media/selenium.0cb0696de6d2241a8bef38b587c04544.svg",
-    "static/media/board-member.svg": "/website/static/media/board-member.66ab28d3e31c7cb2a80e982b43bc54da.svg",
     "static/media/instagram.svg": "/website/static/media/instagram.f4bbcca97ec8a806dc61de0a08f5aa46.svg",
     "static/media/mobile-dev.svg": "/website/static/media/mobile-dev.7b6f3ed0fbeef3caf64e38f7969c296c.svg",
     "static/media/python.svg": "/website/static/media/python.eb1dfe9fe868cfb564d5cc5d22efebc1.svg",
@@ -43,13 +46,13 @@
     "static/media/menu.svg": "/website/static/media/menu.5eef0ab13db4e72d31011156ea3a8773.svg",
     "static/media/exit.svg": "/website/static/media/exit.8c8e670de1cdb7c5ea6f34dad578042d.svg",
     "static/media/flutter.svg": "/website/static/media/flutter.e596d2f6dea87c375c597ed537f4c7a4.svg",
-    "static/media/chevron.svg": "/website/static/media/chevron.0d8ebba562b794b76c52fb9e1b51e7b3.svg",
-    "main.8f6e8ddd.css.map": "/website/static/css/main.8f6e8ddd.css.map",
-    "main.dcb64b30.js.map": "/website/static/js/main.dcb64b30.js.map",
+    "static/media/chevron.svg": "/website/static/media/chevron.c1de5adbadea081c102418ef5acdac8c.svg",
+    "main.4c2159ff.css.map": "/website/static/css/main.4c2159ff.css.map",
+    "main.c401031e.js.map": "/website/static/js/main.c401031e.js.map",
     "787.7da95b79.chunk.js.map": "/website/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f6e8ddd.css",
-    "static/js/main.dcb64b30.js"
+    "static/css/main.4c2159ff.css",
+    "static/js/main.c401031e.js"
   ]
 }
